@@ -8,7 +8,7 @@ Ce dépôt contient une petite API de raccourcisseur d'URL prévue pour être d�
 **Important — état actuel :**
 La logique de persistance (DynamoDB) n'est pas implémentée car le TP a été réalisé sur Linux. 
 J'ai émis l'hypothèse que dynamoDb fonctionnait mal sur cet OS, car j'ai essayé de faire fonctionner le projet finis d'un collègue qui m'a indiqué la meme erreur que sur mon projet non finalisé.
-J'ai donc décidé de faire une petite partie du TP, avec une simulation légère du comportemnt de dynamoDB. 
+J'ai donc décidé de faire une petite partie du TP, avec une simulation légère du comportement de dynamoDB. 
 Je m'en suis rendue compte le 06/02 (sinon c'est pas drole :D) après avoir passé plusieurs (beaucoup) d'heures à essayer de comprendre le soucis, donc je ne penses pas que je finirais le travail demandé.
 
 ### Contrat des handlers (format attendu)
